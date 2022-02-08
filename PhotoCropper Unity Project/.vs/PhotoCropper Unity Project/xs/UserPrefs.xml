@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{046DCF56-13C1-CA97-3049-68857CF41BBB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/Android/AndroidManifest.xml">
+    <Files>
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="19" Column="73" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8d8a5ffe-eca5-414a-b15e-7048c02e1961" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

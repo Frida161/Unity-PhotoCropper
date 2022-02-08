@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{02FE65F0-FA6E-FB2F-DC1E-CB733254DFAF}</ProjectGuid>
+    <ProjectGuid>{28F320BF-EB59-850D-B017-EAF96C914C2C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.VSCode.Editor</AssemblyName>
@@ -271,10 +271,10 @@
       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.NRefactory">
-      <HintPath>/Users/chentong/Desktop/New Unity Project/Library/PackageCache/com.unity.render-pipelines.core@7.5.3/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+      <HintPath>/Users/chentong/Desktop/Unity-PhotoCropper/PhotoCropper Unity Project/Library/PackageCache/com.unity.render-pipelines.core@7.5.3/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>/Users/chentong/Desktop/New Unity Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>/Users/chentong/Desktop/Unity-PhotoCropper/PhotoCropper Unity Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -633,19 +633,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{46D59EF0-6788-C10D-25DD-0D8144EB4B31}</Project>
+      <Project>{71647F88-9215-7DDD-ABA4-979448EFE992}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{5166EF62-49B1-83F8-4CE9-414B06C593E4}</Project>
+      <Project>{0551473F-135F-DEEB-1936-A7F53A7781A0}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{79BD3602-F49E-FC5F-D168-D55E8032F8C9}</Project>
+      <Project>{5239E8CD-ED47-044A-78CA-6245E69192A3}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{86DECBCC-E958-636C-0D16-DCE037BDF6AD}</Project>
+      <Project>{9B44ADE4-0877-3BE9-8819-7FDBDAAAE506}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
