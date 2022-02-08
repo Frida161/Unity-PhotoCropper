@@ -8,13 +8,13 @@ public class PhotoUI : MonoBehaviour {
     void Start() 
     {
         //Register photo events
-        MessageManager.RegisterMessage(MessageName.PhotoLoaded, OnPlotonLoad);
+        MessageManager.RegisterMessage("PhotoLoaded", OnPlotonLoad);
 	}
 
     void OnDestroy()
     {
         //Remove photo events
-        MessageManager.RemoveMessage(MessageName.PhotoLoaded, OnPlotonLoad);
+        MessageManager.RemoveMessage("PhotoLoaded", OnPlotonLoad);
     }
 
     public void LocalPhoto()
