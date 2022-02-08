@@ -64,15 +64,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PhotoCropper\Base Script\AndroidPluginPhoto.cs" />
-    <Compile Include="Assets\PhotoCropper\Base Script\MessageManager.cs" />
-    <Compile Include="Assets\PhotoCropper\Base Script\MessageName.cs" />
-    <Compile Include="Assets\PhotoCropper\Base Script\PhotoPluginManager.cs" />
-    <Compile Include="Assets\PhotoCropper\Base Script\PluginBase.cs" />
-    <Compile Include="Assets\PhotoCropper\Base Script\PluginReceiver.cs" />
-    <Compile Include="Assets\PhotoCropper\Demo\Demo Script\PhotoUI.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\[package]PhotoCropper\Base Script\MessageManager.cs" />
+    <Compile Include="Assets\[package]PhotoCropper\Base Script\PhotoPluginManager.cs" />
+    <Compile Include="Assets\[package]PhotoCropper\Base Script\PluginReceiver.cs" />
+    <Compile Include="Assets\[package]PhotoCropper\Demo\Demo Script\LoadGalleryPhoto.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

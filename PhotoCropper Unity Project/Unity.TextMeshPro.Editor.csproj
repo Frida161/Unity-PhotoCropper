@@ -676,13 +676,13 @@
       <Project>{DFACF380-41E8-FE53-BEFC-2C45E0340ADB}</Project>
       <Name>Unity.TextMeshPro</Name>
     </ProjectReference>
-    <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{71647F88-9215-7DDD-ABA4-979448EFE992}</Project>
-      <Name>UnityEditor.UI</Name>
-    </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{0551473F-135F-DEEB-1936-A7F53A7781A0}</Project>
       <Name>UnityEngine.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.UI.csproj">
+      <Project>{71647F88-9215-7DDD-ABA4-979448EFE992}</Project>
+      <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
       <Project>{5239E8CD-ED47-044A-78CA-6245E69192A3}</Project>

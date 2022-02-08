@@ -1,7 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - PhotoUI
+    - LoadGalleryPhoto
     Unity.RenderPipelines.Core.Runtime.dll:
     - UnityEngine.Rendering.UI.DebugUIHandlerBitField
     - UnityEngine.Rendering.UI.DebugUIHandlerButton
@@ -57,7 +57,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Toggle
     - UnityEngine.UI.VerticalLayoutGroup
   sceneClasses:
-    Assets/PhotoCropper/Demo/Demo Scene.unity:
+    Assets/[package]PhotoCropper/Demo/Demo Scene.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -117,45 +117,45 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13010}
     - Class: 114
-      Script: {instanceID: 13266}
+      Script: {instanceID: 13268}
     - Class: 114
-      Script: {instanceID: 13292}
+      Script: {instanceID: 13294}
     - Class: 114
-      Script: {instanceID: 13560}
+      Script: {instanceID: 13562}
     - Class: 114
-      Script: {instanceID: 13620}
+      Script: {instanceID: 13622}
     - Class: 114
-      Script: {instanceID: 13640}
+      Script: {instanceID: 13642}
     - Class: 114
-      Script: {instanceID: 13762}
+      Script: {instanceID: 13764}
     - Class: 114
-      Script: {instanceID: 13790}
+      Script: {instanceID: 13792}
     - Class: 114
-      Script: {instanceID: 13798}
+      Script: {instanceID: 13800}
     - Class: 114
-      Script: {instanceID: 14096}
+      Script: {instanceID: 14098}
     - Class: 114
-      Script: {instanceID: 14160}
+      Script: {instanceID: 14162}
     - Class: 114
-      Script: {instanceID: 14344}
+      Script: {instanceID: 14346}
     - Class: 114
-      Script: {instanceID: 14388}
+      Script: {instanceID: 14390}
     - Class: 114
-      Script: {instanceID: 14566}
+      Script: {instanceID: 14568}
     - Class: 114
-      Script: {instanceID: 14610}
-    - Class: 114
-      Script: {instanceID: 14802}
+      Script: {instanceID: 14612}
     - Class: 114
       Script: {instanceID: 14804}
     - Class: 114
-      Script: {instanceID: 14832}
+      Script: {instanceID: 14806}
     - Class: 114
-      Script: {instanceID: 14852}
+      Script: {instanceID: 14834}
     - Class: 114
-      Script: {instanceID: 14964}
+      Script: {instanceID: 14854}
     - Class: 114
-      Script: {instanceID: 14970}
+      Script: {instanceID: 14966}
+    - Class: 114
+      Script: {instanceID: 14972}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -790,7 +790,7 @@ ScriptsOnlyBuild:
       Hash: 1c1cd5575a3dd7159e566b523216017c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: PhotoUI
+    className: LoadGalleryPhoto
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -1003,5 +1003,5 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 13
   scenePathNames:
-  - Assets/PhotoCropper/Demo/Demo Scene.unity
+  - Assets/[package]PhotoCropper/Demo/Demo Scene.unity
   playerPath: /Users/chentong/Desktop/123.apk

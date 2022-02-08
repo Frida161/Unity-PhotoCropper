@@ -1,14 +1,8 @@
 ﻿<Properties StartupConfiguration="{046DCF56-13C1-CA97-3049-68857CF41BBB}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PhotoCropper/Base Script/PluginBase.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/[package]PhotoCropper/Demo/Demo Script/LoadGalleryPhoto.cs">
     <Files>
-      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="19" Column="73" />
-      <File FileName="Assets/PhotoCropper/Base Script/AndroidPluginPhoto.cs" Line="24" Column="12" />
-      <File FileName="Assets/PhotoCropper/Base Script/MessageManager.cs" Line="12" Column="57" />
-      <File FileName="Assets/PhotoCropper/Base Script/MessageName.cs" Line="8" Column="1" />
-      <File FileName="Assets/PhotoCropper/Base Script/PhotoPluginManager.cs" Line="14" Column="1" />
-      <File FileName="Assets/PhotoCropper/Base Script/PluginReceiver.cs" Line="1" Column="1" />
-      <File FileName="Assets/PhotoCropper/Demo/Demo Script/PhotoUI.cs" Line="13" Column="1" />
-      <File FileName="Assets/PhotoCropper/Base Script/PluginBase.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="19" Column="65" />
+      <File FileName="Assets/[package]PhotoCropper/Demo/Demo Script/LoadGalleryPhoto.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
